@@ -85,7 +85,8 @@ h1 {
 .slide {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  background: linear-gradient(#f94949, 20%, #d57e12);
+  background: linear-gradient(#f9d349, 20%, #d57e12);
+  ;
   border-radius: 12px;
 }
 
