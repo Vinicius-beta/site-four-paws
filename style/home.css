@@ -86,7 +86,7 @@ h1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   background: linear-gradient(#f9d349, 20%, #d57e12);
-  ;
+  margin-bottom: 150px;
   border-radius: 12px;
 }
 
@@ -125,6 +125,106 @@ h1 {
     font-size: 60px;
   }
 }
+
+/*------------------------SLIDES-------------------------------*/
+
+.slide-cores {
+  width: 1189px;
+  height: 304px;
+  border-radius: 10px;
+}
+
+.bg .slide-container h1 {
+  padding: 50px 0px 50px 0px;
+
+}
+
+.bg {
+  background: url(../imagens/01.8.png);
+
+}
+
+.galery1 {
+  width: 1100px;
+  height: 400px;
+  border-radius: 10px;
+  background: url(../imagens/0023.png) no-repeat center #b9dee6;
+}
+
+.text1 {
+  width: 1006px;
+  padding: 33px 0px 0px 117px;
+  font-size: 25px;
+  color: darkcyan;
+  margin-top: 30px;
+}
+
+.galery2 {
+  width: 1100px;
+  height: 400px;
+  border-radius: 10px;
+  background: url(../imagens/022.png) no-repeat;
+  margin-left: 200px;
+}
+
+.text2 {
+  width: 1009px;
+  height: 232px;
+  color: brown;
+  font-size: 27px;
+  margin: 30px;
+  padding: 62px 14px 0 487px;
+}
+
+.galery3 {
+  width: 940px;
+  height: 400px;
+  border-radius: 10px;
+
+  background: url(../imagens/0026.png) no-repeat;
+}
+
+.text3 {
+  width: 520px;
+  margin: 30px;
+  font-size: 25px;
+  color: saddlebrown;
+  padding: 74px 10px 11px 11px;
+}
+
+.galery4 {
+  width: 938px;
+  height: 400px;
+  border-radius: 10px;
+  margin-left: 359px;
+  background: url(../imagens/020.png) no-repeat;
+}
+
+.text4 {
+  width: 903px;
+  height: 232px;
+  color: #004d99;
+  font-size: 24px;
+  margin: 31px;
+  padding: 61px 1px 0 471px;
+}
+
+
+
+
+/*
+.slide-container img {
+  height: 400px;
+  width: 1300px;
+  margin-bottom: 70px;
+  border-radius: 15px;
+}
+
+.slide-container h1 {
+  margin-bottom: 50px;
+  text-align: center;
+}*/
+
 
 /*-------------------IMPORTANCIA-ANIMAL------------------------*/
 
@@ -228,7 +328,7 @@ h2 {
 
 .cont {
   max-width: 1600px;
-  background: linear-gradient(#f9d349, 20%, #d57e12);
+  background: linear-gradient(#7ecaed, 20%, #9fdcf8);
   border-radius: 300px 13px;
   margin-top: 170px;
 }
@@ -278,9 +378,9 @@ h2 {
   margin-top: 10px;
   padding: 8px 20px;
   border-radius: 3px;
-  background: #f89c11;
+  background: #46b1f4;
   text-decoration: none;
-  color: rgb(17, 0, 79);
+  color: rgb(13, 13, 14);
 }
 
 .sub-inf a:hover {
